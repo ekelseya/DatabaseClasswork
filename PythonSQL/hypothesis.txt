@@ -1,0 +1,18 @@
+Principles of Database Systems
+Database Assignment #4
+Authors: Lance Barto & Eryn Kelsey-Adkins
+Date: 12/5/2019
+
+The cluster of diseases labeled 'c6' in our graph seem to be one of the clearest clusters, so we have chosen it for analysis.
+In this cluster are the diseases:
+    Sinusitis, hyperferritinaemia, recurrent bronchitis, pancytopenia, leukopenia, recurrent sinusitis, bronchiectasis, \
+    recurrent otitis media, anemia, pancreatitis, anorexia, etc . . .
+
+Many of the diseases are common and well-known, and are illnesses associated with Ears, Nose, Throat and/or the respiratory system.
+ENT diseases are commonly associated with areas where the lymphatic system is more active. The genetic markers of these diseases likely
+share some commonality in the fact that they may affect the lymphatic system. In particular, many of the diseases, such as
+sinusitis, (recurrent) otitis media, and (recurrent) bronchitis are each diseases which can be described as an infection. When these types
+of infections occur, there is a response from the lymphatic system which can be aggravating to chronic condition(s). Whereas diseases like
+lymphopenia and leukopenia directly directly affect the lymphatic system, tying the diseases together. There are also some 'outliers' which
+do not seem to share any obvious commonality with the other diseases in the cluster such as anemia or anorexia, which suggests that further
+study and/or analysis is warranted.
